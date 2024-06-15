@@ -1,0 +1,36 @@
+{
+	"name": "fun",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "eqvyt4p8x4p",
+	"viewport-width": 1000,
+	"viewport-height": 1000,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r388.2",
+	"ife": true,
+	"used-plugins": [
+		"TiledBg",
+		"Sprite",
+		"Text",
+		"Keyboard",
+		"Mouse",
+		"Browser",
+		"Audio"
+	],
+	"used-behaviors": [
+		"solid",
+		"scrollto",
+		"Platform",
+		"Anchor",
+		"Sin",
+		"Pin",
+		"Bullet",
+		"LOS",
+		"MoveTo"
+	]
+}
